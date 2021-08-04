@@ -4,4 +4,7 @@ There is two files :
            
        2: Audio.mp3 audio file of length more than 15 mins
           path: https://github.com/Suraj023/fairseq/blob/master/Audio.mp3
+          
+       3: Text scripts generated from the model  
+          path : https://github.com/Suraj023/fairseq/blob/master/generated_scripts.txt
        
